@@ -26,7 +26,7 @@ provides:
     - name: "speckit.azure-devops.sync"
       file: "commands/adosync.md"
       description: "Sync selected user stories or tasks to Azure DevOps"
-      aliases: ["speckit.adosync"]
+      aliases: ["speckit.azure-devops.adosync"]
 
   config:
     - name: "ado-config.json"
