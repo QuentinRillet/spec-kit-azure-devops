@@ -21,7 +21,7 @@ $env:SPECKIT_CATALOG_URL="https://raw.githubusercontent.com/github/spec-kit/main
 specify extension add azure-devops
 
 # Or install Directly by URL
-specify extension add azure-devops --from https://github.com/pragya247/spec-kit-azure-devops/archive/refs/tags/v1.0.0.zip
+specify extension add azure-devops --from https://github.com/QuentinRillet/spec-kit-azure-devops/archive/refs/tags/1.0.1.zip
 ```
 
 ## Prerequisites
